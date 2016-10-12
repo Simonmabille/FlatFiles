@@ -1,4 +1,4 @@
-
+#Définition d'un CMS
 
 CMS est l’acronyme de content management system, soit, en français, « système de gestion de contenu ». Il s’agit d’un programme informatique utilisant une base de données et permettant de gérer de A et Z l’apparence et le contenu d’un site web.
 
